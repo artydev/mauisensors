@@ -1,4 +1,4 @@
-﻿1 - Modication MainActivity.cs 
+﻿1 - Modication MainActivity.cs..
 
 using Android.App;
 using Android.Content.PM;
