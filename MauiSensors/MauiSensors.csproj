@@ -17,7 +17,7 @@
 
         <!-- App Identifier -->
         <ApplicationId>com.companyname.mauisensors</ApplicationId>
-        <ApplicationIdGuid>E804AE80-2859-46B9-94D5-6F68802A3557</ApplicationIdGuid>
+        <ApplicationIdGuid>E804AE80-2859-46B9-94D5-6F68802A3557</ApplicationIdGuid> 
 
         <!-- Versions -->
         <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
